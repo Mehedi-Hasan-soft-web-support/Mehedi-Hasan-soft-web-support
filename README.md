@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehedi-Hasan-soft-web-support
+- 👋 Hi, I’m Mehedi Hasan
 - 👀 I’m interested in Software Engineering and Upcoming technologies
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
