@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jpmehedi&show_icons=true&theme=radical" alt="Md. Mehedi Hasan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpmehedi&theme=radical" alt="GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmehedi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
