@@ -1,219 +1,177 @@
-<h2 align="left">Hi there 👋😊</h2>
-<h4 align="left">
-  I am Mehedi Hasan, currently working in Mobile Development. As a mobile app developer, I use Flutter, a cross-platform native app development framework. So far, this has been the best cross-platform framework for me; I just love it!
-</h4>
-
-<h3 align="center"><samp>Connect</samp></h3>
+# <div align="center">✨ MEHEDI HASAN ✨</div>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-         <a href="https://www.instagram.com/mehedi_hasan_official_web/?fbclid=IwY2xjawKMTo5leHRuA2FlbQIxMABicmlkETFkSjNmVlc1NE9FUlMzT2NTAR5w6yGfCI4gLTBzvUTKlFXaVnp07vGpKF8loOK_IW04BlQbnljzW_yf2E82Pg_aem_gDwZdVnxJB1Bkv39SYG12w#" target="_blank">
-          <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45" />
-          <br>Instagram
-        </a>
-      </td>
-      <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/mehedi-hasan-b84747244/?profileId=ACoAADyfTdQBMWf9dlzuj-Qog-cTgkcEJ7VsTOY" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
-          <br>LinkedIn
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://t.me/mehedi497" target="_blank">
-          <img src="https://www.svgrepo.com/show/354443/telegram.svg" alt="Telegram" width="45" height="45" />
-          <br>Telegram
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://github.com/Mehedi-Hasan-soft-web-support" target="_blank">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
-          <br>GitHub
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Mobile+App+Developer;Flutter+Enthusiast;Computer+Science+Explorer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
+
+## <div align="center">👨‍💻 About Me</div>
+
+<div align="center">
+  <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
+</div>
+
+I'm Mehedi Hasan, a passionate IoT and Machine Learning enthusiast with expertise in mobile app development. My journey in tech has led me to explore various programming languages and technologies, from mobile development with Flutter to AI/ML and embedded systems.
+
+### 🚀 Highlights:
+- 📱 Currently working in Database Management System 
+- 🧪 Building innovative solutions for complex problems
+- 🔍 Enthusiast for clean, efficient code
+- 🌱 Always learning and expanding my skill set
+
+<br clear="all" />
+
+  
+
+## <div align="center">🛠️ Skills & Technologies</div>
+
+<div align="center">
+  <h3>Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart,js,arduino" alt="Programming Languages" />
+  </p>
+  
+  <h3>Web & Mobile Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=flutter,html,css,js,php,django,tailwind,bootstrap" alt="Web & Mobile Development" />
+  </p>
+  
+  <h3>Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" alt="Databases" />
+  </p>
+  
+  <h3>AI & Data Science</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" alt="AI & Data Science" />
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" alt="NumPy" />
+  </p>
+  
+  <h3>Design & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=blender,ai,figma,xd" alt="Design Tools" />
+  </p>
+  
+  <h3>Development Environment</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm" alt="IDEs" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Development Tools" />
+  </p>
+  
+  <h3>Operating Systems</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu" alt="Operating Systems" />
+  </p>
+</div>
+
+## <div align="center">📊 GitHub Stats</div>
+
+<!-- Animated Stats Cards with Gradient Background -->
+<div align="center">
+  <!-- GitHub Stats Card with Animation -->
+  <a href="https://github.com/Mehedi-Hasan-soft-web-support">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan-soft-web-support&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+  </a>
+  <!-- Languages Card with Animation -->
+  <a href="https://github.com/Mehedi-Hasan-soft-web-support">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-Hasan-soft-web-support&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" />
+  </a>
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <a href="https://github.com/Mehedi-Hasan-soft-web-support">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehedi-Hasan-soft-web-support&theme=radical&border_radius=10&background=45,0d1117,1a1b26&stroke=4c71f2&ring=fe428e&fire=fe428e&currStreakNum=fff&sideNums=fe428e&currStreakLabel=fe428e&sideLabels=fff&dates=fff" />
+  </a>
+</div>
+
+<!-- GitHub Trophy with Custom Theme -->
+<div align="center">
+  <a href="https://github.com/Mehedi-Hasan-soft-web-support">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mehedi-Hasan-soft-web-support&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <a href="https://github.com/Mehedi-Hasan-soft-web-support">
+    <img alt="Mehedi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mehedi-Hasan-soft-web-support&bg_color=1a1b26&color=fe428e&line=4c71f2&point=fe428e&area=true&area_color=fe428e44&hide_border=true" />
+  </a>
+</div>
+
+<!-- Extra Stats Summary -->
+<div align="center">
+  <details>
+    <summary>More GitHub Stats</summary>
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mehedi-Hasan-soft-web-support&theme=radical" />
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mehedi-Hasan-soft-web-support&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mehedi-Hasan-soft-web-support&theme=radical" />
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mehedi-Hasan-soft-web-support&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mehedi-Hasan-soft-web-support&theme=radical" />
+  </details>
+</div>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<!-- 3D Contribution Visualization -->
+<div align="center">
+  <a href="https://github.com/Mehedi-Hasan-soft-web-support">
+    <img width="650" alt="Mehedi's 3D Contribution Chart" src="./profile-3d-contrib/profile-night-view.svg" />
+  </a>
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&customColorList=12,15,18,20,23" />
+</div>
+## <div align="center">🔗 Connect With Me</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehedi-hasan-b84747244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mehedi_hasan_official_web/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/mehedi497" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/Mehedi-Hasan-soft-web-support" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://flowcv.com/resume/cl5msmkqa3" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-009688?style=for-the-badge&logo=resume&logoColor=white" alt="View My CV">
+    <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="View My CV" />
   </a>
   <a href="https://sadatmahmud.blogspot.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Blog-007ACC?style=for-the-badge&logo=blog&logoColor=white" alt="Visit My Blog">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Visit My Blog" />
   </a>
 </div>
 
-<h3 align="center"><samp>Achievements</samp></h3>
 <div align="center">
-  <ul>
-    <li>🏆 Participated in NASA Space Apps Challenge 2024</li>
-    <li>🚀 Built a Device called agrotech for researching agriculture </li>
-    <li>🌐 Working on a mars rover project</li>
-  </ul>
+  <img src="https://komarev.com/ghpvc/?username=sadatpro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<h3 align="center"><samp>Skills and Tools</samp></h3>
 <div align="center">
-  <table>
-    <tr>
-      <!-- Programming Languages -->
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
-        <br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
-        <br>Java
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45" />
-        <br>C++
-      </td>
-        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45" />
-        <br>C
-      </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45" />
-        <br>Dart
-      </td>
-         <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45" />
-        <br>js
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="45" height="45" />
-        <br>arduino
-      </td>
-    </tr>
-    <tr>
-      <!-- Frameworks -->
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45" />
-        <br>Flutter
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
-        <br>PHP
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="45" height="45" />
-        <br>Django
-      </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
-        <br>html
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45" />
-        <br>Tailwind CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
-        <br>Bootstrap
-      </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45" />
-        <br>css
-      </td>
-    </tr>
-    <tr>
-      <!-- Databases -->
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="45" height="45" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
-        <br>MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="45" height="45" />
-        <br>sqlite
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="45" height="45" />
-        <br>replit
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" width="45" height="45" />
-       <br>Scikit-learn
-      </td>
-      <td align="center" width="100">
-       <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="45" height="45" />
-       <br>TensorFlow
-      </td>
-    </tr>
-    <tr> <!-- Other Tools -->
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="45" height="45" />
-        <br>blender
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ai" alt="ai" width="45" height="45" />
-        <br>ai
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
-        <br>Figma
-      </td>
-        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="45" height="45" />
-        <br>xd
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="45" height="45" />
-        <br>Anaconda
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
-        <br>Git
-      </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
-        <br>GitHub
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="45" height="45" />
-        <br>Kali Linux
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="45" height="45" />
-        <br>Ubuntu
-      </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45" />
-       <br>Postman
-      </td>
-         <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="45" height="45" />
-        <br>IntelliJ IDEA
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45" />
-        <br>VSCode
-      </td>
-        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" width="45" height="45" />
-        <br>pycharm
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
-        <br>Android Studio
-      </td>
-    </tr>
-  </table>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-<h2 align="left">My GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadatpro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadatpro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
